@@ -1,0 +1,12 @@
+{
+  "name": "IPS",
+  "code": "ips_it",
+  "language": "it",
+  "url": "https://ipsnews.net/italiano/",
+  "scraper_class": "ips_it.IPSScraper",
+  "categories": {
+    "AFRICA": "https://ipsnews.net/italiano/category/africa/",
+    "EUROPA": "https://ipsnews.net/italiano/category/europa/"
+  }
+}
+
